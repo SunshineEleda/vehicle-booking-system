@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=id\ base\ route
+comment0.target=Shuttle(java.lang.String,\ java.lang.String,\ java.util.ArrayList)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Shuttle\n\ @param\ id\ This\ shuttle's\ unique\ id.\n\ @param\ route\ The\ route\ taken\ by\ this\ shuttle.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ The\ first\ entry\ is\ the\ starting\ location.\n
+comment1.params=
+comment1.target=void\ arrived()
+comment1.text=\n\ Indicate\ that\ this\ shuttle\ has\ arrived\ at\ its\ next\ destination.\n
+comment2.params=
+comment2.target=void\ setNextDestination()
+comment2.text=\n\ Set\ the\ next\ destination\ of\ the\ shuttle.\n
+comment3.params=
+comment3.target=java.lang.String\ nextDestination()
+comment4.params=route
+comment4.target=void\ setRoute(java.util.ArrayList)
+comment4.text=\n\ Set\ the\ route\ for\ this\ shuttle.\n\ @param\ route\ The\ circular\ list\ of\ destinations.\n
+numComments=5
